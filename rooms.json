@@ -1,0 +1,492 @@
+{
+    "bedrooms": [
+        {
+            "items": {
+                "bed": true,
+                "nightstand": true,
+                "wheelchair": true,
+                "skeleton": false
+            },
+            "path": [
+                {
+                    "coord": [0, 0],
+                    "up": false,
+                    "down": true,
+                    "right": false,
+                    "left": true,
+                    "on_wheelchair": false,
+                    "on_bed": false,
+                    "on_nightstand": false,
+                    "on_skeleton": false,
+                    "on_door": true
+                },
+                {
+                    "coord": [0, 1],
+                    "up": true,
+                    "down": false,
+                    "right": false,
+                    "left": false,
+                    "on_wheelchair": true,
+                    "on_bed": false,
+                    "on_nightstand": false,
+                    "on_skeleton": false,
+                    "on_door": false
+                },
+                {
+                    "coord": [-2, 0],
+                    "up": true,
+                    "down": false,
+                    "right": true,
+                    "left": true,
+                    "on_wheelchair": false,
+                    "on_bed": false,
+                    "on_nightstand": false,
+                    "on_skeleton": false,
+                    "on_door": false
+                },
+                {
+                    "coord": [-2, -3],
+                    "up": false,
+                    "down": true,
+                    "right": false,
+                    "left": false,
+                    "on_wheelchair": false,
+                    "on_bed": false,
+                    "on_nightstand": true,
+                    "on_skeleton": false,
+                    "on_door": false
+                },
+                {
+                    "coord": [-4, 0],
+                    "up": false,
+                    "down": false,
+                    "right": true,
+                    "left": false,
+                    "on_wheelchair": false,
+                    "on_bed": true,
+                    "on_nightstand": false,
+                    "on_skeleton": false,
+                    "on_door": false
+                }
+            ]
+        },
+        {
+            "items": {
+                "bed": true,
+                "nightstand": true,
+                "wheelchair": false,
+                "skeleton": true
+            },
+            "path": [
+                {
+                    "coord": [0, 0],
+                    "up": true,
+                    "down": false,
+                    "right": false,
+                    "left": true,
+                    "on_wheelchair": false,
+                    "on_bed": false,
+                    "on_nightstand": false,
+                    "on_skeleton": false,
+                    "on_door": true
+                },
+                {
+                    "coord": [0, -3],
+                    "up": false,
+                    "down": true,
+                    "right": false,
+                    "left": false,
+                    "on_wheelchair": false,
+                    "on_bed": false,
+                    "on_nightstand": false,
+                    "on_skeleton": true,
+                    "on_door": false
+                },
+                {
+                    "coord": [-2, 0],
+                    "up": false,
+                    "down": false,
+                    "right": true,
+                    "left": true,
+                    "on_wheelchair": false,
+                    "on_bed": false,
+                    "on_nightstand": true,
+                    "on_skeleton": false,
+                    "on_door": false
+                },
+                {
+                    "coord": [-4, 0],
+                    "up": false,
+                    "down": false,
+                    "right": true,
+                    "left": false,
+                    "on_wheelchair": false,
+                    "on_bed": true,
+                    "on_nightstand": false,
+                    "on_skeleton": false,
+                    "on_door": false
+                }
+            ]
+        },
+        {
+            "items": {
+                "bed": true,
+                "nightstand": true,
+                "wheelchair": false,
+                "skeleton": false
+            },
+            "path": [
+                {
+                    "coord": [0, 0],
+                    "up": false,
+                    "down": false,
+                    "right": false,
+                    "left": true,
+                    "on_wheelchair": false,
+                    "on_bed": false,
+                    "on_nightstand": false,
+                    "on_skeleton": false,
+                    "on_door": true
+                },
+                {
+                    "coord": [-2, 0],
+                    "up": true,
+                    "down": false,
+                    "right": true,
+                    "left": true,
+                    "on_wheelchair": false,
+                    "on_bed": false,
+                    "on_nightstand": false,
+                    "on_skeleton": false,
+                    "on_door": false
+                },
+                {
+                    "coord": [-2, -2],
+                    "up": false,
+                    "down": true,
+                    "right": false,
+                    "left": false,
+                    "on_wheelchair": false,
+                    "on_bed": false,
+                    "on_nightstand": true,
+                    "on_skeleton": false,
+                    "on_door": false
+                },
+                {
+                    "coord": [-4, 0],
+                    "up": false,
+                    "down": false,
+                    "right": true,
+                    "left": false,
+                    "on_wheelchair": false,
+                    "on_bed": true,
+                    "on_nightstand": false,
+                    "on_skeleton": false,
+                    "on_door": false
+                }
+            ]
+        },
+        {
+            "items": {
+                "bed": true,
+                "nightstand": true,
+                "wheelchair": true,
+                "skeleton": false
+            },
+            "path": [
+                {
+                    "coord": [0, 0],
+                    "up": false,
+                    "down": false,
+                    "right": false,
+                    "left": true,
+                    "on_wheelchair": false,
+                    "on_bed": false,
+                    "on_nightstand": false,
+                    "on_skeleton": false,
+                    "on_door": true
+                },
+                {
+                    "coord": [-2, 0],
+                    "up": true,
+                    "down": false,
+                    "right": true,
+                    "left": true,
+                    "on_wheelchair": false,
+                    "on_bed": false,
+                    "on_nightstand": false,
+                    "on_skeleton": false,
+                    "on_door": false
+                },
+                {
+                    "coord": [-2, -2],
+                    "up": false,
+                    "down": true,
+                    "right": false,
+                    "left": false,
+                    "on_wheelchair": false,
+                    "on_bed": false,
+                    "on_nightstand": true,
+                    "on_skeleton": false,
+                    "on_door": false
+                },
+                {
+                    "coord": [-4, 0],
+                    "up": true,
+                    "down": false,
+                    "right": true,
+                    "left": false,
+                    "on_wheelchair": false,
+                    "on_bed": true,
+                    "on_nightstand": false,
+                    "on_skeleton": false,
+                    "on_door": false
+                },
+                {
+                    "coord": [-4, -3],
+                    "up": false,
+                    "down": true,
+                    "right": false,
+                    "left": false,
+                    "on_wheelchair": true,
+                    "on_bed": false,
+                    "on_nightstand": false,
+                    "on_skeleton": false,
+                    "on_door": false
+                }
+            ]
+        },
+        {
+            "items": {
+                "bed": true,
+                "nightstand": false,
+                "wheelchair": true,
+                "skeleton": false
+            },
+            "path": [
+                {
+                    "coord": [0, 0],
+                    "up": true,
+                    "down": false,
+                    "right": false,
+                    "left": false,
+                    "on_wheelchair": false,
+                    "on_bed": false,
+                    "on_nightstand": false,
+                    "on_skeleton": false,
+                    "on_door": true
+                },
+                {
+                    "coord": [0, -1],
+                    "up": false,
+                    "down": true,
+                    "right": false,
+                    "left": false,
+                    "on_wheelchair": true,
+                    "on_bed": true,
+                    "on_nightstand": false,
+                    "on_skeleton": false,
+                    "on_door": false
+                },
+                {
+                    "coord": [-2, 0],
+                    "up": false,
+                    "down": false,
+                    "right": true,
+                    "left": true,
+                    "on_wheelchair": false,
+                    "on_bed": false,
+                    "on_nightstand": false,
+                    "on_skeleton": false,
+                    "on_door": false
+                },
+                {
+                    "coord": [-5, 0],
+                    "up": true,
+                    "down": false,
+                    "right": true,
+                    "left": false,
+                    "on_wheelchair": false,
+                    "on_bed": false,
+                    "on_nightstand": false,
+                    "on_skeleton": false,
+                    "on_door": false
+                },
+                {
+                    "coord": [-5, -3],
+                    "up": false,
+                    "down": true,
+                    "right": false,
+                    "left": false,
+                    "on_wheelchair": false,
+                    "on_bed": true,
+                    "on_nightstand": false,
+                    "on_skeleton": false,
+                    "on_door": false
+                }
+            ]
+        },
+        {
+            "items": {
+                "bed": true,
+                "nightstand": false,
+                "wheelchair": true,
+                "skeleton": true
+            },
+            "path": [
+                {
+                    "coord": [0, 0],
+                    "up": false,
+                    "down": false,
+                    "right": false,
+                    "left": true,
+                    "on_wheelchair": false,
+                    "on_bed": false,
+                    "on_nightstand": false,
+                    "on_skeleton": false,
+                    "on_door": true
+                },
+                {
+                    "coord": [-4, 0],
+                    "up": true,
+                    "down": true,
+                    "right": true,
+                    "left": false,
+                    "on_wheelchair": false,
+                    "on_bed": false,
+                    "on_nightstand": false,
+                    "on_skeleton": false,
+                    "on_door": false
+                },
+                {
+                    "coord": [-4, 1],
+                    "up": true,
+                    "down": false,
+                    "right": false,
+                    "left": false,
+                    "on_wheelchair": false,
+                    "on_bed": false,
+                    "on_nightstand": false,
+                    "on_skeleton": true,
+                    "on_door": false
+                },
+                {
+                    "coord": [-4, -3],
+                    "up": false,
+                    "down": true,
+                    "right": false,
+                    "left": false,
+                    "on_wheelchair": true,
+                    "on_bed": true,
+                    "on_nightstand": false,
+                    "on_skeleton": false,
+                    "on_door": false
+                }
+            ]
+        },
+        {
+            "items": {
+                "bed": true,
+                "nightstand": true,
+                "wheelchair": false,
+                "skeleton": false
+            },
+            "path": [
+                {
+                    "coord": [0, 0],
+                    "up": false,
+                    "down": false,
+                    "right": false,
+                    "left": true,
+                    "on_wheelchair": false,
+                    "on_bed": false,
+                    "on_nightstand": false,
+                    "on_skeleton": false,
+                    "on_door": true
+                },
+                {
+                    "coord": [-2, 0],
+                    "up": false,
+                    "down": false,
+                    "right": true,
+                    "left": true,
+                    "on_wheelchair": false,
+                    "on_bed": false,
+                    "on_nightstand": true,
+                    "on_skeleton": false,
+                    "on_door": false
+                },
+                {
+                    "coord": [-3, 0],
+                    "up": true,
+                    "down": false,
+                    "right": true,
+                    "left": false,
+                    "on_wheelchair": false,
+                    "on_bed": false,
+                    "on_nightstand": true,
+                    "on_skeleton": false,
+                    "on_door": false
+                },
+                {
+                    "coord": [-3, -3],
+                    "up": false,
+                    "down": true,
+                    "right": false,
+                    "left": false,
+                    "on_wheelchair": false,
+                    "on_bed": true,
+                    "on_nightstand": false,
+                    "on_skeleton": false,
+                    "on_door": false
+                }
+            ]
+        },
+        {
+            "items": {
+                "bed": true,
+                "nightstand": true,
+                "wheelchair": true,
+                "skeleton": false
+            },
+            "path": [
+                {
+                    "coord": [0, 0],
+                    "up": true,
+                    "down": false,
+                    "right": false,
+                    "left": true,
+                    "on_wheelchair": false,
+                    "on_bed": false,
+                    "on_nightstand": false,
+                    "on_skeleton": false,
+                    "on_door": true
+                },
+                {
+                    "coord": [0, -3],
+                    "up": false,
+                    "down": true,
+                    "right": false,
+                    "left": false,
+                    "on_wheelchair": false,
+                    "on_bed": false,
+                    "on_nightstand": true,
+                    "on_skeleton": false,
+                    "on_door": false
+                },
+                {
+                    "coord": [-4, 0],
+                    "up": false,
+                    "down": false,
+                    "right": true,
+                    "left": false,
+                    "on_wheelchair": true,
+                    "on_bed": true,
+                    "on_nightstand": false,
+                    "on_skeleton": false,
+                    "on_door": false
+                }
+            ]
+        }
+    ]
+}

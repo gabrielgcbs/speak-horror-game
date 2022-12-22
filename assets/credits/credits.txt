@@ -1,0 +1,23 @@
+{
+    "info": [
+        "Created by: Gabriel Caldas",
+        "Developed for Digital Game Developement course at Masters Degree of Information Technology, UFRN, Brazil"
+    ],
+    "arts":[
+        "Arts",
+        "Gabriel Caldas",
+        "Robotkocka: https:\/robotkocka.itch.io",
+        "TheRealSwirls - https:\/\/therealswirls.itch.io",
+        "Kauzz > https:\/\/kauzz.itch.io/ft1",
+        "@lotus_totus > https:\/\/totuslotus.itch.io"
+    ],
+    "sounds": [
+        "Soundtracks",
+        "Pixabay -> https:\/\/pixabay.com",
+        "Vinrax -> https:\/\/opengameart.org/users/vinrax"
+    ],
+    "fonts": [
+        "Font",
+        "penakut"
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "points": [
+        {
+            "coord": [0, 0],
+            "up": true,
+            "down": false,
+            "right": false,
+            "left": false,
+            "is_locked": false
+        },
+        {
+            "coord": [0, 3],
+            "up": true,
+            "down": true,
+            "right": true,
+            "left": true,
+            "is_locked": false
+        },
+        {
+            "coord": [0, 7],
+            "up": true,
+            "down": true,
+            "right": false,
+            "left": true,
+            "is_locked": false
+        },
+        {
+            "coord": [-3, 7],
+            "up": true,
+            "down": true,
+            "right": true,
+            "left": false,
+            "is_locked": false
+        },
+        {
+            "coord": [0, 11],
+            "up": true,
+            "down": true,
+            "right": false,
+            "left": true,
+            "is_locked": false
+        },
+        {
+            "coord": [-3, 11],
+            "up": false,
+            "down": true,
+            "right": true,
+            "left": false,
+            "is_locked": false
+        },
+        {
+            "coord": [-3, 3],
+            "up": true,
+            "down": false,
+            "right": true,
+            "left": false,
+            "is_locked": false
+        },
+        {
+            "coord": [3, 3],
+            "up": false,
+            "down": false,
+            "right": false,
+            "left": true,
+            "is_locked": false
+        },
+        {
+            "coord": [0, 17],
+            "up": false,
+            "down": true,
+            "right": true,
+            "left": true,
+            "is_locked": false
+        },
+        {
+            "coord": [-6, 17],
+            "up": false,
+            "down": false,
+            "right": true,
+            "left": false,
+            "is_locked": false
+        },
+        {
+            "coord": [6, 17],
+            "up": false,
+            "down": false,
+            "right": true,
+            "left": true,
+            "is_locked": false
+        },
+        {
+            "coord": [12, 17],
+            "up": false,
+            "down": true,
+            "right": true,
+            "left": true,
+            "is_locked": false
+        },
+        {
+            "coord": [12, 12],
+            "up": true,
+            "down": false,
+            "right": false,
+            "left": false,
+            "is_locked": false
+        },
+        {
+            "coord": [19, 17],
+            "up": true,
+            "down": false,
+            "right": false,
+            "left": true,
+            "is_locked": false
+        },
+        {
+            "coord": [19, 23],
+            "up": true,
+            "down": true,
+            "right": false,
+            "left": false,
+            "is_locked": false
+        },
+        {
+            "coord": [19, 28],
+            "up": false,
+            "down": true,
+            "right": false,
+            "left": true,
+            "is_locked": false
+        },
+        {
+            "coord": [14, 28],
+            "up": false,
+            "down": false,
+            "right": true,
+            "left": true,
+            "is_locked": false
+        },
+        {
+            "coord": [10, 28],
+            "up": false,
+            "down": false,
+            "right": true,
+            "left": true,
+            "is_locked": false
+        },
+        {
+            "coord": [6, 28],
+            "up": false,
+            "down": false,
+            "right": true,
+            "left": true,
+            "is_locked": false
+        },
+        {
+            "coord": [1, 28],
+            "up": false,
+            "down": false,
+            "right": true,
+            "left": true,
+            "is_locked": false
+        },
+        {
+            "coord": [-5, 28],
+            "up": false,
+            "down": false,
+            "right": true,
+            "left": false,
+            "is_locked": true
+        },
+        {
+            "coord": [-11, 28],
+            "up": false,
+            "down": false,
+            "right": true,
+            "left": false,
+            "is_locked": false
+        }
+    ]
+}

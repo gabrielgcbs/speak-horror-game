@@ -1,0 +1,58 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        ":/automap-tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Meus documentos/DEV/Projects/games/speak/assets/tilesets/madhouse.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "indoors.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 191.33333333333331,
+                "y": 170
+            }
+        },
+        "madhouse.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "walls.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "D:/Meus documentos/DEV/Projects/games/speak/assets/tilemaps",
+    "last.externalTilesetPath": "D:/Meus documentos/DEV/Projects/games/speak/assets/tilemaps",
+    "last.imagePath": "D:/Meus documentos/Documentos/MESTRADO/2022.2/Desenvolvimento de Jogos Digitais",
+    "map.lastUsedExportFilter": "JavaScript map files (*.js)",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "indoors.tmx",
+        "madhouse.tsx",
+        "walls.tsx"
+    ],
+    "project": "speak-project.tiled-project",
+    "recentFiles": [
+        "indoors.tmx",
+        "madhouse.tsx",
+        "walls.tsx",
+        "D:/Meus documentos/DEV/Projects/games/speak/assets/tilesets/madhouse.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 0,
+    "tileset.spacing": 0
+}
